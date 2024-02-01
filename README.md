@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hynwkm" alt="hynwkm" /></a> </p>
 
-- 🔭 I’m currently working on [Style Sync](https://github.com/hynwkm/StyleSync)
-
 - 📫 How to reach me **hynwkm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
