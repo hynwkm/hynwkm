@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A dedicated software developer from Korea</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hynwkm" alt="hynwkm" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,4 +9,4 @@
   - 📫 **hynwkm@gmail.com**
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hynwkm&show_icons=true&locale=en&layout=compact" alt="hynwkm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hynwkm&show_icons=true&locale=en&layout=compact" alt="hynwkm" /></p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hynwkm" alt="hynwkm" /></a> </p>
